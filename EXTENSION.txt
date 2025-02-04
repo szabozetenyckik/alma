@@ -1,9 +1,0 @@
-DUPLICATE SELECTION OR LINE 
-Mithril Emmet
-ctrl+shift+p wrap with abbreviation ctrl+shift+j
-vscode pdf
-open in browser
-live share
-live server
-git graph
-w3c web validator
